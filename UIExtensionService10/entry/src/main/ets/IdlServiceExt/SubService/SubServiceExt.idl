@@ -1,0 +1,3 @@
+interface OHOS.SubServiceExt {
+    int Sub([in] int num1,[in] int num2);
+}

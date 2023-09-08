@@ -1,0 +1,3 @@
+interface OHOS.MultipServiceExt {
+    int Multip([in] int num1,[in] int num2);
+}

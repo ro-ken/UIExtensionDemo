@@ -1,0 +1,3 @@
+interface OHOS.IIdlServiceExt {
+    int Add([in] int num1,[in] int num2);
+}
